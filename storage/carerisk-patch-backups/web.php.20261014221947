@@ -1,0 +1,17 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use Illuminate\Http\Request;
+
+Route::view('/', 'carerisk.home')->name('home');
+Route::post('/demo', function (Request $request) {
+    $data = $request->validate([
+        'name' => ['required', 'string', 'max:120'],
+        'email' => ['required', 'email', 'max:190'],
+        'facility' => ['nullable', 'string', 'max:190'],
+        'message' => ['nullable', 'string', 'max:2000'],
+        'privacy' => ['accepted'],
+    ]);
+    // Demo mode: no personal data is persisted or sent.
+    return back()->with('demo_success', 'Vielen Dank! Dies ist eine Demo. Die Anfrage wurde nicht versendet.');
+})->name('demo.submit')->middleware('throttle:5,1');
