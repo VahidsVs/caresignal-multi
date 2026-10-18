@@ -37,7 +37,7 @@
                         Prioritäten und Schichtübergaben unterstützen – <strong>ohne die bestehende Pflegesoftware zu
                             ersetzen.</strong></p>
                     <div class="crp-actions"><a class="crp-button" href="#funktionen">Funktionen entdecken ↓</a><a
-                            class="crp-button ghost" href="https://app.westvsline.net/de" target="_blank"
+                            class="crp-button ghost" href="https://app.westvsline.net/" target="_blank"
                             rel="noopener noreferrer">Online-Software öffnen ↗</a></div>
                     <p class="crp-note">Funktionsumfang und Verfügbarkeit einzelner Module werden in der Demo erläutert.
                         Beispielwerte sind keine realen Bewohnerdaten.</p>
@@ -174,7 +174,7 @@
                     <h2>Entdecken Sie die CareSignal-AI-Plattform</h2>
                     <p>Einblick in die bereits entwickelte Software erhalten Sie über die Online-Plattform. CareRisk ist
                         der in der Präsentation verwendete Produktname; zuvor wurde CareSignal verwendet.</p>
-                    <div class="crp-actions"><a class="crp-button" href="https://app.westvsline.net/de"
+                    <div class="crp-actions"><a class="crp-button" href="https://app.westvsline.net/"
                             target="_blank" rel="noopener noreferrer">Zur Online-Software ↗</a><a
                             class="crp-button ghost" href="/">Zur Startseite</a></div>
                 </div>
@@ -207,7 +207,8 @@
                     <article class="cr-book-card">
                         <div class="cr-book-cover cover-dark" aria-hidden="true">
                             <span>Pflege-Apostel</span><small>Kompaktwissen für Pflegeausbildung &
-                                Prüfungsvorbereitung</small><b>Dr. Seyedhadi Seyedin</b></div>
+                                Prüfungsvorbereitung</small><b>Dr. Seyedhadi Seyedin</b>
+                        </div>
                         <div class="cr-book-body"><span class="cr-book-tag">BUCH · PFLEGEAUSBILDUNG</span>
                             <h3>Pflege-Apostel</h3>
                             <p class="cr-book-subtitle">Kompaktwissen für Pflegeausbildung & Prüfungsvorbereitung</p>

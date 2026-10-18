@@ -36,7 +36,7 @@
                     <p>CareRisk helps care teams turn scattered information into clear priorities, explainable alerts
                         and useful shift summaries — <strong>without replacing existing care software.</strong></p>
                     <div class="cr-en-actions"><a class="cr-en-cta" href="/en/features">Explore the features →</a><a
-                            class="cr-en-outline" href="https://app.westvsline.net/de" target="_blank"
+                            class="cr-en-outline" href="https://app.westvsline.net/" target="_blank"
                             rel="noopener noreferrer">Open online platform ↗</a></div><small>CareRisk is decision
                         support, not an emergency alarm system or autonomous medical diagnosis.</small>
                 </div>
@@ -130,7 +130,7 @@
                     <p>CareRisk is the current product name used in our pitch materials; the existing online platform is
                         presented under its earlier name, CareSignal AI.</p>
                 </div>
-                <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/de" target="_blank"
+                <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/" target="_blank"
                         rel="noopener noreferrer">Open platform ↗</a><a class="cr-en-outline"
                         href="/en/pilot-request">Request a pilot →</a></div>
             </div>

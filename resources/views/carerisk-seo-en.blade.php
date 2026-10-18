@@ -33,7 +33,7 @@
             <div class="cr-en-warning">
                 CareRisk is not an emergency alarm system or a replacement for professional medical or nursing
                 assessment. Availability of integrations must be verified.</div>
-            <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/de" target="_blank"
+            <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/" target="_blank"
                     rel="noopener noreferrer">Explore CareSignal AI ↗</a><a class="cr-en-outline"
                     href="/en/pilot-request">Pilot information</a></div>
             <h2>More resources</h2>

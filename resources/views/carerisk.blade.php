@@ -42,7 +42,7 @@
                 href="/sturzprotokoll-vorlage">Gratis-Vorlage</a><a href="#loesung">Lösung</a><a
                 href="#vorteile">Vorteile</a><a href="#integration">Integration</a><a href="#team">Über uns</a><a
                 href="#demo">Online-Plattform</a>
-            <a class="nav-mobile-cta" href="https://app.westvsline.net/de" target="_blank"
+            <a class="nav-mobile-cta" href="https://app.westvsline.net/" target="_blank"
                 rel="noopener noreferrer">Software öffnen ↗</a>
         </nav>
         <a class="cr-lang-switch" href="/en" lang="en" hreflang="en" aria-label="Switch to English">EN</a><a
@@ -104,7 +104,7 @@
                         target="_blank" rel="noopener noreferrer"><strong>Die Presse
                             ↗</strong><span>Startup-Vorstellung in einer österreichischen Tageszeitung</span></a><a
                         href="#team"><strong>Gründer aus Graz</strong><span>Softwareentwicklung und praktische
-                            Pflegeerfahrung</span></a><a href="https://app.westvsline.net/de" target="_blank"
+                            Pflegeerfahrung</span></a><a href="https://app.westvsline.net/" target="_blank"
                         rel="noopener noreferrer"><strong>Online-Plattform ↗</strong><span>Bestehende
                             CareSignal-AI-Software kennenlernen</span></a></div>
                 <div class="cr-trust-ticker" aria-label="Vorteile von CareRisk">
@@ -394,7 +394,7 @@
                     <div class="cr-demo-points"><span>✓ Bestehende Online-Plattform</span><span>✓ Für
                             Pflegeeinrichtungen entwickelt</span><span>✓ Einblick in die digitale Pflegeassistenz</span>
                     </div>
-                    <div class="cr-proof-actions"><a class="btn primary" href="https://app.westvsline.net/de"
+                    <div class="cr-proof-actions"><a class="btn primary" href="https://app.westvsline.net/"
                             target="_blank" rel="noopener noreferrer">Zur CareSignal AI Plattform ↗</a><a
                             class="btn outline" href="#kontakt">Pilotgespräch anfragen</a></div>
                     <p class="micro">Der Link führt zur extern gehosteten Plattform. Ein öffentlich zugänglicher
@@ -406,7 +406,7 @@
                     <div class="cr-demo-screen"><span class="cr-demo-label">LIVE-SOFTWARE</span>
                         <div class="cr-demo-symbol">♥</div>
                         <h3>CareSignal <span>AI</span></h3>
-                        <p>Digitale Unterstützung für den Pflegealltag</p><a href="https://app.westvsline.net/de"
+                        <p>Digitale Unterstützung für den Pflegealltag</p><a href="https://app.westvsline.net/"
                             target="_blank" rel="noopener noreferrer">Plattform öffnen ↗</a>
                     </div><small>Illustrative Vorschau – kein Screenshot des Produktes</small>
                 </div>
@@ -442,7 +442,7 @@
                     <summary>Kann ich CareRisk herunterladen und selbst installieren?</summary>
                     <p>Die bestehende CareSignal AI Plattform ist online erreichbar. Eine öffentliche
                         Self-Hosting-Installationsversion von CareRisk wird hier nicht angeboten. <a
-                            href="https://app.westvsline.net/de" target="_blank" rel="noopener noreferrer">Zur
+                            href="https://app.westvsline.net/" target="_blank" rel="noopener noreferrer">Zur
                             Online-Plattform ↗</a></p>
                 </details>
             </div>

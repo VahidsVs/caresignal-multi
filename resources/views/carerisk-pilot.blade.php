@@ -27,7 +27,7 @@
             <p>{{ $english ? 'We are happy to discuss potential pilot collaboration. Explore the existing online platform or request a conversation below, when the contact form is available.' : 'Sie möchten ein Pilotprojekt besprechen? Sehen Sie sich unsere bestehende Online-Plattform an. Sobald das Kontaktformular rechtlich und technisch freigeschaltet ist, können Sie direkt eine Anfrage senden.' }}
             </p>
             <div class="cr-en-actions" style="justify-content:center"><a class="cr-en-cta"
-                    href="https://app.westvsline.net/de" target="_blank"
+                    href="https://app.westvsline.net/" target="_blank"
                     rel="noopener noreferrer">{{ $english ? 'Open online platform ↗' : 'Online-Plattform öffnen ↗' }}</a><a
                     class="cr-en-outline"
                     href="{{ $english ? '/en' : '/' }}">{{ $english ? 'Back to homepage' : 'Zur Startseite' }}</a>

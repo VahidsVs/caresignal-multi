@@ -24,7 +24,7 @@
     <header class="cr-topbar"><a href="/"><b>♥ Care<span class="green">Risk</span></b></a><a
             href="/#ratgeber">Ratgeber & Vorlagen</a><a class="cr-lang-switch"
             href="{{ url('/en/' . request()->segment(1)) }}" lang="en">EN</a><a class="cr-demo"
-            href="https://app.westvsline.net/de" target="_blank" rel="noopener noreferrer">Live-Demo ↗</a></header>
+            href="https://app.westvsline.net/" target="_blank" rel="noopener noreferrer">Live-Demo ↗</a></header>
     <main class="cr-article">
         <div class="cr-kicker">CARERISK · PFLEGEWISSEN</div>
         <h1>{{ $page['heading'] }}</h1>

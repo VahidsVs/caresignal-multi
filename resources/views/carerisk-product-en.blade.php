@@ -26,7 +26,7 @@
                 <h1>Understand changes.<br><em>Prioritize care.</em></h1>
                 <p>CareRisk is designed to complement existing nursing-home software, not replace it. The feature
                     descriptions below reflect the product concept; availability of individual modules is confirmed
-                    during a demo.</p><a class="cr-en-cta" href="https://app.westvsline.net/de" target="_blank"
+                    during a demo.</p><a class="cr-en-cta" href="https://app.westvsline.net/" target="_blank"
                     rel="noopener noreferrer">See existing online platform ↗</a>
             </div>
         </section>
@@ -94,7 +94,7 @@
                     <p>Learn more about CareSignal AI, the existing platform, and request a CareRisk pilot discussion.
                     </p>
                 </div>
-                <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/de" target="_blank"
+                <div class="cr-en-actions"><a class="cr-en-cta" href="https://app.westvsline.net/" target="_blank"
                         rel="noopener noreferrer">Open platform ↗</a><a class="cr-en-outline"
                         href="/en/pilot-request">Request pilot →</a></div>
             </div>
@@ -123,7 +123,8 @@
                     <article class="cr-book-card">
                         <div class="cr-book-cover cover-dark" aria-hidden="true">
                             <span>Pflege-Apostel</span><small>Kompaktwissen für Pflegeausbildung &
-                                Prüfungsvorbereitung</small><b>Dr. Seyedhadi Seyedin</b></div>
+                                Prüfungsvorbereitung</small><b>Dr. Seyedhadi Seyedin</b>
+                        </div>
                         <div class="cr-book-body"><span class="cr-book-tag">BOOK · NURSING EDUCATION</span>
                             <h3>Pflege-Apostel</h3>
                             <p class="cr-book-subtitle">Kompaktwissen für Pflegeausbildung & Prüfungsvorbereitung</p>
