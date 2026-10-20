@@ -486,7 +486,7 @@
                         <div class="cr11-links"><a href="mailto:ertebatbama@gmail.com">✉
                                 <span><strong>E-Mail</strong><small>ertebatbama@gmail.com</small></span></a><a
                                 href="https://wa.me/989197044123" target="_blank" rel="noopener noreferrer">◉
-                                <span><strong>WhatsApp</strong><small>+98 919 704 4123</small></span></a><a
+                                <span><strong>WhatsApp</strong><small>+43 681 816 17567</small></span></a><a
                                 href="tel:+4368181617567">☎ <span><strong>Telefon Österreich</strong><small>+43 681 816
                                         17567</small></span></a></div>
                         <p class="cr11-privacy">Bitte keine personenbezogenen Gesundheitsdaten oder
